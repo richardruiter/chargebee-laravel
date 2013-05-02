@@ -1,8 +1,8 @@
 chargebee
 ===============
 
-Chargebee is a Recurring billing SaaS application. This bundle is a wrapper around the API.
-http://www.chargebee.com/
+Chargebee is a Recurring billing SaaS application. This bundle is a wrapper around the API.  
+http://www.chargebee.com/  
 https://apidocs.chargebee.com/docs/api?lang=php
 
 Installation
@@ -38,5 +38,4 @@ get all you plans
         $plans[] = $plan;
         $all->next();
     }
-}
 
